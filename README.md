@@ -1,2 +1,2 @@
 # nodeserver
-Boilerplate for node.js
+Boilerplate for node.js, ES6
