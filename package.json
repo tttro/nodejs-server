@@ -14,7 +14,6 @@
     "nodemon": "^1.9.1"
   },
   "scripts": {
-    "nodemon": "nodemon build/server.js",
     "start": "npm run build && node build/server.js",
     "dev": "nodemon --exec babel-node src/server.js",
     "build": "babel src --out-dir build"
