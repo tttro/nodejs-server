@@ -15,5 +15,5 @@ Default routes: domain/api/...
 
 ### npm scripts
 - build: just compile es6-files with Babel
-- dev: run server with nodemon and compile es6-files on fly by babel-node
+- dev: run server with nodemon and compile es6-files on by fly with babel-node
 - start: build and start server with node
